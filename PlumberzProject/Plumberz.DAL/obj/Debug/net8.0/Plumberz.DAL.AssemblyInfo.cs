@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Plumberz.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bad6744b80525998c95c40e10532e329f1838506")]
 [assembly: System.Reflection.AssemblyProductAttribute("Plumberz.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Plumberz.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

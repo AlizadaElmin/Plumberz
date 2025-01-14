@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TAG3Ml5We3g=",
+  "dgSpecHash": "M0aiL9cttt4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\classtime\\source\\repos\\PlumberzProject\\Project.BL\\Project.BL.csproj",
+  "projectFilePath": "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\Project.BL\\Project.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\classtime\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\classtime\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

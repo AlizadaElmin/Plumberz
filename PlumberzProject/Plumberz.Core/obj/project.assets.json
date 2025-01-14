@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\classtime\\source\\repos\\PlumberzProject\\Plumberz.Core\\Plumberz.Core.csproj",
+      "projectUniqueName": "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\Plumberz.Core\\Plumberz.Core.csproj",
       "projectName": "Plumberz.Core",
-      "projectPath": "C:\\Users\\classtime\\source\\repos\\PlumberzProject\\Plumberz.Core\\Plumberz.Core.csproj",
+      "projectPath": "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\Plumberz.Core\\Plumberz.Core.csproj",
       "packagesPath": "C:\\Users\\classtime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\classtime\\source\\repos\\PlumberzProject\\Plumberz.Core\\obj\\",
+      "outputPath": "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\Plumberz.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -4117,11 +4117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\classtime\\source\\repos\\PlumberzProject\\PlumberzProject\\PlumberzProject.csproj",
+      "projectUniqueName": "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\PlumberzProject\\PlumberzProject.csproj",
       "projectName": "PlumberzProject",
-      "projectPath": "C:\\Users\\classtime\\source\\repos\\PlumberzProject\\PlumberzProject\\PlumberzProject.csproj",
+      "projectPath": "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\PlumberzProject\\PlumberzProject.csproj",
       "packagesPath": "C:\\Users\\classtime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\classtime\\source\\repos\\PlumberzProject\\PlumberzProject\\obj\\",
+      "outputPath": "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\PlumberzProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4143,8 +4143,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\classtime\\source\\repos\\PlumberzProject\\Project.BL\\Project.BL.csproj": {
-              "projectPath": "C:\\Users\\classtime\\source\\repos\\PlumberzProject\\Project.BL\\Project.BL.csproj"
+            "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\Project.BL\\Project.BL.csproj": {
+              "projectPath": "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\Project.BL\\Project.BL.csproj"
             }
           }
         }

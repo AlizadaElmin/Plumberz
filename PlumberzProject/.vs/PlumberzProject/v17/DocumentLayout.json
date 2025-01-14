@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\classtime\\source\\repos\\PlumberzProject\\",
+  "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{812E1A5C-DA9D-48DE-8099-4650097CB0BA}|PlumberzProject\\PlumberzProject.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberzproject\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{812E1A5C-DA9D-48DE-8099-4650097CB0BA}|PlumberzProject\\PlumberzProject.csproj|c:\\users\\classtime\\desktop\\new folder (2)\\plumberzproject\\plumberzproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812E1A5C-DA9D-48DE-8099-4650097CB0BA}|PlumberzProject\\PlumberzProject.csproj|solutionrelative:plumberzproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812E1A5C-DA9D-48DE-8099-4650097CB0BA}|PlumberzProject\\PlumberzProject.csproj|c:\\users\\classtime\\desktop\\new folder (2)\\plumberzproject\\plumberzproject\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{812E1A5C-DA9D-48DE-8099-4650097CB0BA}|PlumberzProject\\PlumberzProject.csproj|solutionrelative:plumberzproject\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{812E1A5C-DA9D-48DE-8099-4650097CB0BA}|PlumberzProject\\PlumberzProject.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberzproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{812E1A5C-DA9D-48DE-8099-4650097CB0BA}|PlumberzProject\\PlumberzProject.csproj|solutionrelative:plumberzproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{812E1A5C-DA9D-48DE-8099-4650097CB0BA}|PlumberzProject\\PlumberzProject.csproj|c:\\users\\classtime\\desktop\\new folder (2)\\plumberzproject\\plumberzproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812E1A5C-DA9D-48DE-8099-4650097CB0BA}|PlumberzProject\\PlumberzProject.csproj|solutionrelative:plumberzproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\PlumberzProject\\Program.cs",
+              "RelativeDocumentMoniker": "PlumberzProject\\Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\PlumberzProject\\Program.cs",
+              "RelativeToolTip": "PlumberzProject\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:39:54.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\PlumberzProject\\PlumberzProject\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\PlumberzProject\\Areas\\Admin\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "PlumberzProject\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\PlumberzProject\\PlumberzProject\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\PlumberzProject\\Areas\\Admin\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "PlumberzProject\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAIA9wB4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T09:02:47.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\PlumberzProject\\PlumberzProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\PlumberzProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "PlumberzProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\PlumberzProject\\PlumberzProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\New folder (2)\\PlumberzProject\\PlumberzProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "PlumberzProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T09:02:46.925Z",
               "EditorCaption": ""

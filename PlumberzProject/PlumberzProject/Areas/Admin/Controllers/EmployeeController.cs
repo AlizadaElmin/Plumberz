@@ -26,13 +26,7 @@ public class EmployeeController(IEmployeeService _service,IWebHostEnvironment _e
         return RedirectToAction("Index");
     }
 
-    public IActionResult Update(int id) 
-    { 
-        if(id == 0)
-        {
-            throw new Exception();
-        }
-        }
+   
     [HttpPost]
     public async Task<IActionResult> Update(int id,EmployeeUpdateVM vm)
     {
